@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/DzmitryKas/React_Application-/delta-stream/static/css/main.1baf450e.chunk.css",
+    "main.js": "/DzmitryKas/React_Application-/delta-stream/static/js/main.0e110927.chunk.js",
+    "main.js.map": "/DzmitryKas/React_Application-/delta-stream/static/js/main.0e110927.chunk.js.map",
+    "runtime-main.js": "/DzmitryKas/React_Application-/delta-stream/static/js/runtime-main.6b0f2717.js",
+    "runtime-main.js.map": "/DzmitryKas/React_Application-/delta-stream/static/js/runtime-main.6b0f2717.js.map",
+    "static/js/2.7b37fbf5.chunk.js": "/DzmitryKas/React_Application-/delta-stream/static/js/2.7b37fbf5.chunk.js",
+    "static/js/2.7b37fbf5.chunk.js.map": "/DzmitryKas/React_Application-/delta-stream/static/js/2.7b37fbf5.chunk.js.map",
+    "index.html": "/DzmitryKas/React_Application-/delta-stream/index.html",
+    "precache-manifest.ae1eccb8fbef88b09d6bb98967d042ff.js": "/DzmitryKas/React_Application-/delta-stream/precache-manifest.ae1eccb8fbef88b09d6bb98967d042ff.js",
+    "service-worker.js": "/DzmitryKas/React_Application-/delta-stream/service-worker.js",
+    "static/css/main.1baf450e.chunk.css.map": "/DzmitryKas/React_Application-/delta-stream/static/css/main.1baf450e.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b0f2717.js",
+    "static/js/2.7b37fbf5.chunk.js",
+    "static/css/main.1baf450e.chunk.css",
+    "static/js/main.0e110927.chunk.js"
+  ]
+}
