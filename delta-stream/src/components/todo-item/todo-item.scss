@@ -1,0 +1,72 @@
+.todo-item {
+  font-size: 20px;
+  border-bottom: 1px solid #5264AE;
+  min-height: 60px;
+  display: flex;
+  align-items: center;
+  list-style: none;
+  padding: 0 16px 0 60px;
+  cursor: pointer;
+  color: #5264AE;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  transition: all .3s ease;
+
+  &:hover {
+    opacity: .8;
+  }
+}
+
+.text {
+  font-family: "Montserrat", sans-serif;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+.checked {
+  background-color: #5264AE;
+}
+
+.mark {
+  position: absolute;
+  left: 20px;
+  width: 20px;
+  height: 20px;
+  border: 1px solid #5264AE;
+  border-radius: 50%;
+}
+
+.close {
+  position: relative;
+  width: 20px;
+  height: 20px;
+
+  &:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 9px;
+    height: 100%;
+    width: 2px;
+    transform: rotate(45deg);
+    background-color: #5264AE;
+  }
+
+  &:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 9px;
+    height: 100%;
+    width: 2px;
+    transform: rotate(-45deg);
+    background-color: #5264AE;
+  }
+}
+
+
+
